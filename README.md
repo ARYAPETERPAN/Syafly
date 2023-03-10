@@ -1,2 +1,1 @@
-# Syafly
-Algorithma sesi 4
+https://github.com/ARYAPETERPAN/AlgoritmaSesi4
